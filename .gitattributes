@@ -1,0 +1,17 @@
+/logs/pip.log filter=lfs diff=lfs merge=lfs -text
+/wheels/flashinfer_cubin-0.6.6-py3-none-any.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cublas_cu12-12.8.4.1-py3-none-manylinux_2_27_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cuda_nvrtc_cu12-12.8.93-py3-none-manylinux2010_x86_64.manylinux_2_12_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cudnn_cu12-9.10.2.21-py3-none-manylinux_2_27_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cufft_cu12-11.3.3.83-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_curand_cu12-10.3.9.90-py3-none-manylinux_2_27_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cusolver_cu12-11.7.3.90-py3-none-manylinux_2_27_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cusparse_cu12-12.5.8.93-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cusparselt_cu12-0.7.1-py3-none-manylinux2014_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_cutlass_dsl_libs_cu12-4.8.1-cp312-cp312-manylinux_2_28_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_nccl_cu12-2.27.5-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/nvidia_nvshmem_cu12-3.4.5-py3-none-manylinux2014_x86_64.manylinux_2_17_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/opencv_python_headless-5.0.0.93-cp37-abi3-manylinux_2_28_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/torch-2.10.0+cu128-cp312-cp312-manylinux_2_28_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/triton-3.6.0-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+/wheels/vllm-0.19.1-cp38-abi3-manylinux_2_31_x86_64.whl filter=lfs diff=lfs merge=lfs -text
